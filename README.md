@@ -27,6 +27,6 @@
           
   
 </div>
+  <!--- ![snake gif](https://github.com/MullerPenaforte/MullerPenaforte/blob/output/github-contribution-grid-snake.svg) --->
   
-  
-![snake gif](https://github.com/MullerPenaforte/MullerPenaforte/blob/output/github-contribution-grid-snake.svg)
+
