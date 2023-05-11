@@ -1,7 +1,7 @@
 
 ```diff
 
-@@                  Hi there, I'm MullerPenaforte. Welcome! 👋                        @@
+@@                  Hi there, I'm Muller Penaforte. Welcome! 👋                        @@
 @@              💬 I’m currently learning more about Github, C++ and Python           @@
 ```
 
